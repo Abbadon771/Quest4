@@ -1,0 +1,44 @@
+﻿  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\SDL2\lib\x86\libfreetype-6.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\SDL2\lib\x86\libjpeg-9.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\SDL2\lib\x86\libpng16-16.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\SDL2\lib\x86\libtiff-5.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\SDL2\lib\x86\libwebp-4.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\SDL2\lib\x86\SDL2.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\SDL2\lib\x86\SDL2_image.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\SDL2\lib\x86\SDL2_ttf.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\SDL2\lib\x86\zlib1.dll
+          9 file(s) copied.
+  Engine.cpp
+Source\Engine.cpp(22): warning C4101: 'curObject': unreferenced local variable
+Source\Engine.cpp(66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Source\Engine.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 248 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Quest.4.Assignment.Metroid.vcxproj -> C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Game\Quest.4.Assignment.Metroid.exe
+  Quest.4.Assignment.Metroid.vcxproj -> C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Game\Quest.4.Assignment.Metroid.pdb (Full PDB)
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\libfreetype-6.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\libjpeg-9.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\libpng16-16.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\libtiff-5.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\libwebp-4.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\SDL2.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\SDL2_image.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\SDL2_ttf.dll
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\zlib1.dll
+          9 file(s) moved.
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Assets\Config\animation.txt -> C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Game\Assets\Config\animation.txt
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Assets\Config\level.txt -> C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Game\Assets\Config\level.txt
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Assets\Fonts\impact.ttf -> C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Game\Assets\Fonts\impact.ttf
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Assets\Images\1774.png -> C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Game\Assets\Images\1774.png
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Assets\Images\1776.png -> C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Game\Assets\Images\1776.png
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Assets\Images\block.png -> C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Game\Assets\Images\block.png
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Assets\Images\lava.png -> C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Game\Assets\Images\lava.png
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Assets\Images\p10612173.gif -> C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Game\Assets\Images\p10612173.gif
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Assets\Images\rios.png -> C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Game\Assets\Images\rios.png
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Assets\Images\rios2.png -> C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Game\Assets\Images\rios2.png
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Assets\Images\samus.png -> C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Game\Assets\Images\samus.png
+  C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Assets\Images\samus.psd -> C:\Users\JAMES N\Documents\Programming 2\examples\Quest.4.Assignment.Metroid\Game\Assets\Images\samus.psd
+  12 File(s) copied
